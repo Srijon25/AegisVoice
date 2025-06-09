@@ -1,5 +1,3 @@
-init.py 
-
 """ AegisVoice: Cancel Phrase Verification and Threat Response Simulator
 
 This package provides the main modules for speech recognition, cancel phrase detection, confidence evaluation, user profile management, GUI, simulation, and secure logging. """
